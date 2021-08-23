@@ -1,11 +1,11 @@
-name: Builkd Garden
+name: Build Garden
 
 on:
   push
 
 jobs:
   jekyll:
-    runs-on: ubuntu-16.04
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
 
