@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to Paaji ser's garden! 🌱
 
-Check the [about page](/about) to know more about ser.
+Check the <a href="/about" class="internal-link">about page</a> to know more about ser.
 
 <style>
   .wrapper {
