@@ -7,7 +7,13 @@ permalink: /about
 ser is a full-stack developer dipping toes into crypto and all the fun stuff.
 
 skills
-- React & TS
-- frameworks like NextJS and Gatsby
+- fluent with React & TS
+- frameworks like NextJS and Gatsby are like play
 - Node
 - GraphQL
+
+## Links
+
+Twitter - https://twitter.com/crypto_paaji
+Github - https://github.com/crypto-paaji/
+Discord - cryptopaaji#1142
