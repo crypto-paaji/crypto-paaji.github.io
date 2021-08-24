@@ -5,11 +5,9 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome to Paaji ser's garden! 🌱
 
-Nothing here yet.
-
-Check my [Twitter (@crypto_paaji)](https://twitter.com/crypto_paaji) to know what I'm upto. 👋
+Check the [about page](/about) to know more about ser.
 
 <style>
   .wrapper {
