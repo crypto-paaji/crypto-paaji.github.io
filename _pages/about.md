@@ -4,4 +4,10 @@ title: About
 permalink: /about
 ---
 
-Just another nerd learning about crytos and all the fun stuff.
+ser is a full-stack developer dipping toes into crypto and all the fun stuff.
+
+skills
+- React & TS
+- frameworks like NextJS and Gatsby
+- Node
+- GraphQL
