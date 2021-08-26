@@ -2,9 +2,9 @@
 title: How Smart Contracts Will Change the World - YouTube
 ---
 
-Link: https://www.youtube.com/watch?v=pA6CGuXEKtQ
+Link: [https://www.youtube.com/watch?v=pA6CGuXEKtQ](https://www.youtube.com/watch?v=pA6CGuXEKtQ)
 
-Tags: [[Smart Contracts]] [[videos]] [[notes]]
+Tags: [[Smart Contracts]] [[videos]]
 
 [[Blockchain]] is Immutable Distributed Ledger.
 
