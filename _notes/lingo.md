@@ -16,6 +16,8 @@ ngmi - not going to make it
 
 kek - lol
 
+ser - sir
+
 shill - trickster getting people to believe something is great
 
 kthnks
