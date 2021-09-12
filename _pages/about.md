@@ -4,11 +4,14 @@ title: About
 permalink: /about
 ---
 
+# About
+
 ser is a full-stack developer dipping toes into crypto and all the fun stuff.
 
 skills
+
 - fluent with React & TS
-- frameworks like NextJS and Gatsby are like play
+- uses frameworks like NextJS and Gatsby
 - Node
 - GraphQL
 
