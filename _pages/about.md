@@ -20,5 +20,3 @@ skills
 Twitter - [https://twitter.com/paajicrypto](https://twitter.com/paajicrypto)
 
 Github - [https://github.com/crypto-paaji/](https://github.com/crypto-paaji/)
-
-Discord - cryptopaaji#1142
