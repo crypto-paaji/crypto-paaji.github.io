@@ -17,7 +17,7 @@ skills
 
 ## Links
 
-Twitter - [https://twitter.com/crypto_paaji](https://twitter.com/crypto_paaji)
+Twitter - [https://twitter.com/paajicrypto](https://twitter.com/paajicrypto)
 
 Github - [https://github.com/crypto-paaji/](https://github.com/crypto-paaji/)
 
